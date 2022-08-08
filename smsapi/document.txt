@@ -1,0 +1,5 @@
+This is a sms api wrriten in php
+
+api source: textlocal
+
+note: api will not work on localhost it will work on alive server with a paid domain 
